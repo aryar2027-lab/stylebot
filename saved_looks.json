@@ -1,0 +1,44 @@
+[
+  {
+    "event": "College / Casual day out",
+    "style": "Western",
+    "gender": "Women",
+    "colour": "maroon",
+    "budget": 6000,
+    "items": [
+      {
+        "name": "maroon sundress",
+        "group": "clothing",
+        "price": 3600,
+        "ethnic": false
+      },
+      {
+        "name": "flat sandals",
+        "group": "footwear",
+        "price": 1500,
+        "ethnic": false
+      },
+      {
+        "name": "sunglasses",
+        "group": "accessories",
+        "price": 300,
+        "ethnic": false
+      },
+      {
+        "name": "tote bag",
+        "group": "accessories",
+        "price": 300,
+        "ethnic": false
+      },
+      {
+        "name": "backpack",
+        "group": "accessories",
+        "price": 300,
+        "ethnic": false
+      }
+    ],
+    "tip": "Comfort first: breathable fabrics and shoes you can walk in all day.",
+    "warning": null,
+    "saved_on": "28 Oct 2026, 11:30 PM"
+  }
+]
